@@ -43,7 +43,7 @@ Some of my key academic and personal projects include:
 
 ---
 
-## Contacts
+## Contacts and Links
 
 - Phone: 935333384
 - Email: rodrigomacedo47@gmail.com
