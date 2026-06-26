@@ -44,10 +44,8 @@ Some of my key academic and personal projects include:
 ---
 
 ## Contacts
-935333384
-rodrigomacedo47@gmail.com
 
-
+- Phone: 935333384
 - Email: rodrigomacedo47@gmail.com
 - LinkedIn: https://www.linkedin.com/in/rodrigo-macedo
 - GitHub: https://github.com/rmufasa
