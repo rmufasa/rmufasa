@@ -4,7 +4,7 @@ Software Engineering Graduate from University of Minho, Portugal.
 
 ---
 
-## Tech Stack
+## Skills
 
 **Languages:**
 Java, Python, C#, C++, C, JavaScript, SQL
